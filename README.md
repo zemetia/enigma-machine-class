@@ -28,8 +28,8 @@ import {Enigma} from "enigma-machine.js"
 ```
 then init the object into variable generally
 
-# fiture 
-there is a fitures in this Enigma Machine Encryption module
+# feature 
+there is a features in this Enigma Machine Encryption module
 ```js
 //while Initializing
 let enigmaMachine = new Enigma(set)
